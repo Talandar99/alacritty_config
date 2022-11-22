@@ -23,28 +23,24 @@ bright:
   magenta: '0xbb9af7'
   cyan:    '0x0db9d7'
   white:   '0xacb0d0'
+
 font:
+  size: 9 
   normal:
-    family: Aesthetic Iosevka Original
-    style: regular
+    family: Droid Sans Mono Nerd Font 
+    style: regular Bold
   bold:
-    family: Aesthetic Iosevka Original
+    family: Droid Sans Mono Nerd Font 
     style: Bold
-
   italic:
-    family: Aesthetic Iosevka Original
+    family: Droid Sans Mono Nerd Font 
     style: Italic
-
   bold_italic:
-    family: AestheticIosevka Nerd Font Mono
+    family: Droid Sans Mono Nerd Font 
     style: Bold Italic
 
-  size: 10 
-  offset:
-       x: 1
-       y: 0
 window:
-  opacity: 0.7
+  dynamic_padding: true
+  opacity: 0.8
   padding: 
        x: 10
-  dynamic_padding: true
