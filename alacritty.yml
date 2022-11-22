@@ -58,10 +58,10 @@ key_bindings:
 colors:
   primary:
     background: '0x0a1124'
-    foreground: '0xeec49a'
+    foreground: '0xffffff'
   cursor:
     text:       '0x0a1124'
-    cursor:     '0xeec49a'
+    cursor:     '0xffffff'
   
   normal:
     black:   '0x32344a'
@@ -71,7 +71,7 @@ colors:
     blue:    '0x7aa2f7'
     magenta: '0xad8ee6'
     cyan:    '0x449dab'
-    white:   '0x9699a8'
+    white:   '0xffffff'
   bright:
     black:   '0x444b6a'
     red:     '0xff7a93'
@@ -80,4 +80,4 @@ colors:
     blue:    '0x7da6ff'
     magenta: '0xbb9af7'
     cyan:    '0x0db9d7'
-    white:   '0xacb0d0'
+    white:   '0xffffff'
