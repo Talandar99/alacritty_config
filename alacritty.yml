@@ -19,15 +19,15 @@ scrolling:
   multiplier: 3
 
 font:
-  size: 12
+  size: 9
   normal:
-    family: FiraCode Nerd Font Mono
+    family: Hack Nerd Font
   bold:
-    family:  FiraCode Nerd Font Mono
+    family:  Hack Nerd Font
   italic:
-    family:  FiraCode Nerd Font Mono
+    family:  Hack Nerd Font
   bold_italic:
-    family:  FiraCode Nerd Font Mono
+    family:  Hack Nerd Font 
     size: 12.0
 
 draw_bold_text_with_bright_colors: true
