@@ -19,15 +19,15 @@ scrolling:
   multiplier: 3
 
 font:
-  size: 9
+  size: 12
   normal:
-    family: Hack Nerd Font
+    family: FiraCode Nerd Font Mono
   bold:
-    family:  Hack Nerd Font
+    family:  FiraCode Nerd Font Mono
   italic:
-    family:  Hack Nerd Font
+    family:  FiraCode Nerd Font Mono
   bold_italic:
-    family:  Hack Nerd Font 
+    family:  FiraCode Nerd Font Mono
     size: 12.0
 
 draw_bold_text_with_bright_colors: true
@@ -67,7 +67,8 @@ colors:
     black:   '0x32344a'
     red:     '0xf7768e'
     green:   '0x9ece6a'
-    yellow:  '0xe0af68'
+    yellow:  '0xff9e64'
+    #yellow:  '0xe0af68'
     blue:    '0x7aa2f7'
     magenta: '0xad8ee6'
     cyan:    '0x449dab'
@@ -76,8 +77,9 @@ colors:
     black:   '0x444b6a'
     red:     '0xff7a93'
     green:   '0xb9f27c'
-    yellow:  '0xff9e64'
+    yellow:  '0xe0af68'
     blue:    '0x7da6ff'
     magenta: '0xbb9af7'
     cyan:    '0x0db9d7'
     white:   '0xffffff'
+    #white:  '0xe0af68'
