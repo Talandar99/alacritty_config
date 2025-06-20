@@ -106,5 +106,3 @@ lines = 30
 [window.padding]
 y = 5
 
-[general]
-live_config_reload = true
